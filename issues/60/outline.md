@@ -2,6 +2,8 @@
 
 ## Lead sentence
 
+I use Fedora, btw.
+
 ## Introduction
 
 ## Main body
