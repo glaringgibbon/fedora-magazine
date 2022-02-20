@@ -10,57 +10,22 @@ Starting with a Workstation install is akin to a Manjaro install.
 
 An article detailing similar customisations for Fedora would be beneficial for Arch refugees trying to re-create their setup on Fedora.
 It is also beneficial for existing Fedora users that love the tools available but desire the ability to customize their environment.
-In no way should this article be considered an attack on Arch or an attempt to undermine the distro or it's community of users.
+In no way should this article be considered an attack on Arch.
 
 ## Additional proposal
 
+I think it should also be made clear that this is not an attempt to poach users away from Arch.
+
 A common criticism of GUI desktops is that the user often has to adapt their workflow to fit the environment.
+
 Another reason for taking this route is for purism; to only install the minimal amount of packages to achieve the desired functionalities.
 This also has an additional benefit in so far as it can reduce the likelihood of package conflicts.
-Many Linux distros have gone to great lengths to emulate Windows in order to ease the transition.
-Whilst this is admirable in many respects one downside is that 
 
-## Additional commentary
-
-### Full disclosure
-
-I am also an Arch refugee. 
-I am also a Mint refugee. 
-And a Raspbian refugee. 
-And a Windows refugee. 
-No axe grinding here. 
-Any \*nix based distro is a fine distro.
-
-## Personal journey
-
-I've always had an interest in computers since I was child and over the years that interest has increased. 
-Coming from a business background computers meant Windows. 
-I started to tinker with Excel macros to automate some repetitive tasks. 
-I kept adding features until one day it all broke and I was left staring at the BSOD. 
-I knew behind the scenes of the macros Windows was autogenerating my VBA scripts. 
-I also knew this process added in some code that wasn't strictly necessary and could be eliminated. 
-That is when I moved away from macros to VBA. That solved that problem. 
-
-What else could I do with my new found powers? 
-More new features. 
-Cue BSOD. 
-
-
-Raspbian on RPi
- 
- 
-- Mint Cinnamon dual-boot with Windows 7
-- Mint Cinnamon
-- Arch
-- Fedora/CentOS
-
-I switched to Fedora and CentOS as daily drivers for a simple reason. I have  
-
-When I recently configured a QEMU/KVM/Libvirt setup on Fedora 35 I installed 3 VM's in the following order;
-
-1) Fedora 35 Server minimal
-2) Fedora 35 Workstation
-3) Arch
+Many Linux distros have gone to great lengths to emulate Windows in order to ease user transition.
+Whilst this is admirable there are downsides as it is too easy to rely solely on the GUI environment and miss out on some key features of Linux.
+Consider also the GUI vs TUI paradigms; point and click against a keyboard-centric workflow.
+Graphical environments are a further layer of abstraction that obscures the underlying processes.
+Tinkering with customizations is a great way of learning about those processes and Linux in general.
 
 ## Comparison
 
