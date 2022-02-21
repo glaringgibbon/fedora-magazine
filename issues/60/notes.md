@@ -27,10 +27,10 @@ TODO Very brief systemd/init target discussion.
 
 To learn more about dnf see [here](https://dnf.readthedocs.io/en/latest/)
 
-Open dnf.conf with vim
+Open dnf.conf for editing
 
 ```
-$ sudo vim /etc/dnf/dnf.conf
+$ sudoedit /etc/dnf/dnf.conf
 ```
 
 Add this text at the bottom
