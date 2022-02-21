@@ -25,14 +25,26 @@ TODO Very brief systemd/init target discussion.
 
 ### Package management
 
-Open dnf.conf with vim and add text at the bottom
+To learn more about dnf see [here](https://dnf.readthedocs.io/en/latest/)
+
+Open dnf.conf with vim
 
 ```
 $ sudo vim /etc/dnf/dnf.conf
-fastestmirror=1
-max_parallel_downloads=10
-deltarpm=True
+```
+
+Add this text at the bottom
+
+```
+ip_resolve=4
+max_parallel_downloads=20
 defaultyes=True
+```
+
+Or echo into file with this, repeating the command for the other items
+
+```
+
 ```
 
 ## Group packages
